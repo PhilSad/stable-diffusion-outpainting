@@ -1,7 +1,8 @@
 # What this is
 Downscale image, add noise on the edge and add perlin noise in the background.
 
-Base image should be 512x512 px.
+Base image should be 512x512 px. 
+
 
 |Base Image|Input Image|Mask Image|
 |---|---|---|
