@@ -7,6 +7,13 @@ Base image should be 512x512 px.
 |---|---|---|
 |![input image](./images/base.png) | ![noised image](./images/init.png) | ![mask image](./images/mask.png)|
 
+
+Results after inpainting:
+
+![outpainting result](./result.png)
+
+
+
 # Installation
 Create and activate a python environnement, then:
 ```bash
