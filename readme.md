@@ -17,6 +17,7 @@ Results after inpainting:
 # Installation
 Create and activate a python environnement, then:
 ```bash
+git clone https://github.com/PhilSad/stable-diffusion-outpainting
 pip install -r requirements.txt
 ```
 
